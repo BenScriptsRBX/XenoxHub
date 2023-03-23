@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/BenScriptsRBX/Xenox/main/Script')))()
